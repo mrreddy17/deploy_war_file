@@ -5,7 +5,7 @@
   <artifactId>JenkinsWar1</artifactId>
   <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
-  <name>JenkinsWar Maven Webapp</name>
+  <name1>JenkinsWar Maven Webapp</name1>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
